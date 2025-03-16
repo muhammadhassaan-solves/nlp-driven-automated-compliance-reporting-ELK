@@ -23,7 +23,7 @@ Set Up Elasticsearch, Logstash, & Kibana <br />
 <img src="https://i.imgur.com/WgIqyhr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Implement Compliance Logging <br/>
+Implement Logging <br/>
 <img src="https://i.imgur.com/VprhUak.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -41,12 +41,4 @@ Automate Monitoring <br/>
 
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+
