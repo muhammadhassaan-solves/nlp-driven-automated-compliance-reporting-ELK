@@ -20,12 +20,12 @@ processed_logs = []
 for log in log_messages:
     doc = nlp(log)
     extracted_terms = [token.text.lower() for token in doc if token.text.lower() in compliance_keywords]
-    processed_logs.append({"message": log, "compliance_terms": extracted_terms})
+    compliance_report.append({"message": log, "compliance_terms": extracted_terms})
 
 # Save processed logs
-with open("processed_logs.json", "w") as f:
-    json.dump(processed_logs, f, indent=2)
+with open("compliance_report.json", "w") as f:
+    json.dump(compliance_report, f, indent=2)
 
-print("Processed logs saved at /home/ubuntu/processed_logs.json")
+print("Processed logs saved at /home/ubuntu/compliance_report.json")
 
 ~
