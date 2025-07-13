@@ -20,23 +20,23 @@ The project focuses on setting up compliance logging using Logstash, Elasticsear
 
 <p align="center">
 Set Up Elasticsearch, Logstash, & Kibana <br />
-<img src="https://i.imgur.com/WgIqyhr.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WgIqyhr.jpeg" />
 <br />
 <br />
 Implement Logging <br/>
-<img src="https://i.imgur.com/VprhUak.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VprhUak.jpeg" />
 <br />
 <br />
 Use NLP for Compliance Extraction <br/>
-<img src="https://i.imgur.com/4CHdTrz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4CHdTrz.png" />
 <br />
 <br />
 Store & Visualize Logs <br/>
-<img src="https://i.imgur.com/4YiOphJ.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/4YiOphJ.jpeg"/>
 <br />
 <br/>
 Automate Monitoring <br/>
-<img src="https://i.imgur.com/1JDTi9i.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1JDTi9i.jpeg"/>
 <br />
 
 </p>
